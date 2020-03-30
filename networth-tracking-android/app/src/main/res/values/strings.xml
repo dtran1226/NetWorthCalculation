@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NetWorthTracking</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_title">Net Worth Tracking</string>
+    <string name="user_name">Enter your name:</string>
+    <string name="ok">OK</string>
+    <string name="clear">CLEAR</string>
+    <string name="save">SAVE</string>
+    <string name="select_currency">Currency:</string>
+    <string name="currency">CAD</string>
+    <string name="net_worth">Net Worth</string>
+    <string name="assets">Assets</string>
+    <string name="total_assets">Total Assets</string>
+    <string name="liabilities">Liabilities</string>
+    <string name="total_liabilities">Total Liabilities</string>
+    <string name="cash_and_investments">Cash And Investments</string>
+    <string name="long_term_assets">Long Term Assets</string>
+    <string name="other">Other</string>
+    <string name="short_term_liabilities">Short Term Liabilities</string>
+    <string name="long_term_debts">Long Term Debts</string>
+</resources>
